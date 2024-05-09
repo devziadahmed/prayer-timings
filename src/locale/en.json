@@ -1,0 +1,37 @@
+{
+  "header": {
+    "date": {
+      "months": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    },
+    "timer": {
+      "done": "All prayers are finished today",
+      "nextPrayer": "Remaining time until"
+    }
+  },
+  "prayerNames": {
+    "Fajr": "Fajr",
+    "Sunrise": "Sunrise",
+    "Dhuhr": "Dhuhr",
+    "Asr": "Asr",
+    "Maghrib": "Maghrib",
+    "Isha": "Isha"
+  },
+  "select": {
+    "languageSelect": "Language",
+    "countrySelect": "Select a country"
+  }
+}
